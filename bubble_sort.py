@@ -8,4 +8,4 @@ for j in range(len(l)-1):
             temp = l[i]
             l[i] = l[i+1]
             l[i+1] = temp
-print(l)
+print(l) 

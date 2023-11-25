@@ -5,7 +5,7 @@ Input Format:
 Integer value indicating the ASCII value to be evaluated
 
 Output Format:
-Given integer:Corresponding character
+Given integer:Corresponding  character
 
 Constraints:
 0 <= ch <=127

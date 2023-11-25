@@ -11,7 +11,7 @@ You are required to calculate the result of the string str, scanning the string 
 
 Note:
 
-No order of priorities of operations is required
+No order of priorities of operations is  required
 Length of str is odd
 If str is NULL or None (in case of Python), return -1
 Input:

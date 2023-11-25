@@ -31,7 +31,7 @@ print(answer)"""
 """ Array Challenge
 Have the function
 
-ArrayChallenge (strArr) take the array of characters stored in strarr, which will contain characters ranging from A to Z in some arbitrary order, 
+ArrayChallenge (strArr) take  the array of characters stored in strarr, which will contain characters ranging from A to Z in some arbitrary order, 
 and determine what elements still remain in a virtual cache that can hold up to 5 elements with an LRU cache algorithm implemented.
 For example: if strArr is ["A", "B", "C", "D", "A", "E", "D", "Z"], then the following steps are taken:
 

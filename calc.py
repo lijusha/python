@@ -10,7 +10,7 @@ The function accepts 3 positive integers ‘a’ , ‘b’ and ‘c ‘ as its a
 ( a – b ) , if c=2
 ( a * b ) ,  if c=3
 (a / b) ,  if c =4
-Assumption : All operations will result in integer output.
+Assumption : All operations  will result in integer output.
 
 Example:
 

@@ -3,7 +3,7 @@ Round off the given floating point value with accurate to 2 decimal places.
 
 
 Input Format:
-Accept a floating point value
+Accept a floating point  value
 
 
 Output Format:

@@ -8,7 +8,7 @@ Juan Marquinho needs your help, your task is to develop a program to get the num
 Input Format: An positive integer S (the number of rock samples) separated by a blank space, and a positive integer R (the number of ranges of the laboratory);
 A list of the sizes of S samples (in ppm), as positive integers separated by space R lines where the ith line containing two positive integers, space separated, 
 indicating the minimum size and maximum size respectively of the ith range.
-Output Format: R lines where the ith line contains a single non-negative integer indicating the number of the samples which lie in the ith range.
+Output Format: R  lines where the ith line contains a single non-negative integer indicating the number of the samples which lie in the ith range.
 Constraints:
 
 10 <= S <= 10000

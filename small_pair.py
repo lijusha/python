@@ -9,7 +9,7 @@ NOTE
 
 Return -1 if array is empty or if n<2
 Return 0, if no such pairs found
-All computed values lie within integer range
+All computed values lie within integer  range
 Example
 
 Input

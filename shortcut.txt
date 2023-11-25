@@ -12,7 +12,7 @@ Ctrl+B     Toggle sidebar
 Ctrl+Alt left/right arrow   shring or expand
 Ctrl+K    code formatting
 Ctrl+L    seclect current line
-Ctrl+tab  jump one file to another 
+Ctrl+tab  jump one file to  another 
 
 
 Terminal command

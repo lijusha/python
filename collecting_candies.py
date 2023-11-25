@@ -9,7 +9,7 @@ to collect all of them he has approached you to tell him the minimum time in whi
 
 Input Format:
 
-The first line of input is the number of test case T
+The first line of  input is the number of test case T
 Each test case is comprised of two inputs
 The first input of a test case is the number of boxes N
 The second input is N integers delimited by whitespace denoting the number of candies in each box

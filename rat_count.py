@@ -4,7 +4,7 @@ The function accepts two positive integers ‘r’ and ‘unit’ and a positive
 Note:
 
 Return -1 if the array is null
-Return 0 if the total amount of food from all houses is not sufficient for all the rats.
+Return 0 if the total amount  of food from all houses is not sufficient for all the rats.
 Computed values lie within the integer range.
 Example:
 

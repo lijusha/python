@@ -6,7 +6,7 @@ You are required to implement the following function.
 
 Int NumberOfCarries(int num1 , int num2);
 
-The functions accepts two numbers ‘num1’ and ‘num2’ as its arguments. You are required to calculate and return  the total number of carries generated while adding digits of two numbers ‘num1’ and ‘ num2’.
+The functions accepts  two numbers ‘num1’ and ‘num2’ as its arguments. You are required to calculate and return  the total number of carries generated while adding digits of two numbers ‘num1’ and ‘ num2’.
 
 Assumption: num1, num2>=0
 

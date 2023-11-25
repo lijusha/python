@@ -6,7 +6,7 @@ class dog:
       print(self.name)
    
    def __str__(self) -> str:
-      return f"'you have retuned the object'"
+      return f"'you have retuned  the object'"
    def details(self):
       return f"{self.name} age is {self.age} and their species is {dog1.species}"
 

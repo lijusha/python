@@ -4,7 +4,7 @@ def sort_numbers_with_indices(numbers):
     original_indices = [x[0] for x in sorted_indices]
     return sorted_numbers, original_indices
 
-# input
+#  input
 numbers = [7, 3, 10, 5, 2]
 
 

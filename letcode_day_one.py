@@ -7,7 +7,7 @@ def twonum(nums,target):
         read_num[num] = i
     return []
 
-nums = [2, 7, 11, 15]
+nums = [3, 7, 11, 15]
 target = 9
 a = list(twonum(nums, target))
 print (a)

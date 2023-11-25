@@ -13,7 +13,7 @@ subject = "test subject 001"
 body = " it's is working "
 
 em = EmailMessage()
-em['From'] = email_sender
+em['From'] =  email_sender
 em['To'] = email_reciver
 em['Subject'] = subject
 em.set_content(body)

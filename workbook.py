@@ -18,7 +18,7 @@ c = ")("
 c.split()
 string = list(c)
 value = []
-index1 = []
+index1 =  []
 
 for i in string:
     if i == '(':

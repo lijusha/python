@@ -9,7 +9,7 @@ if __name__ == '__main__':
     
     for i in student_marks:
         if i == query_name:
-            average = 0.0
+            average =  0.0
             for j in student_marks[i]:
                 
                 average += j

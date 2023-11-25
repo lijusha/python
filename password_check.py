@@ -5,7 +5,7 @@ String is valid if it satisfies all the conditions.
 at least 4 characters
 no space or slash(/)
 at least one numeric digit
-at least one capital letter
+at least one capital  letter
 
 starting character must not be a number"""
 

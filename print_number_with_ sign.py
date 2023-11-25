@@ -10,7 +10,7 @@ Print the number along with its sign.
 Constraints:
 10^-15 <= N <= 10^15
 
-Sample Input 1:
+Sample  Input 1:
 8
 
 Sample Output 1:

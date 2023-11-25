@@ -1,4 +1,4 @@
-"Find the sum of all numbers in range from 1 to m(both inclusive) that are not divisible by n. Return difference between sum of integers not divisible by n with sum of numbers divisible by n."
+"Find the sum of all numbers in  range from 1 to m(both inclusive) that are not divisible by n. Return difference between sum of integers not divisible by n with sum of numbers divisible by n."
 
 def sum_problem(m,n):
     sum1,sum2=0,0

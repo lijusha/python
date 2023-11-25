@@ -6,7 +6,7 @@ A strict superset has at least one element that does not exist in its subset.
 
 Example
 Set is a strict superset of set.
-Set is not a strict superset of set.
+Set is not a strict superset  of set.
 
 
 Input Format

@@ -1,4 +1,4 @@
-import string
+import  string
 value = string.ascii_lowercase
 print(value)
 t = []

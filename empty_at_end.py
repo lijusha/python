@@ -1,4 +1,4 @@
-arr = [7,0,4,0,0,5,0]
+arr = [7,0,4,0,0,5,0,5]
 package = []
 for i in range(1,len(arr)+1):
     if arr[-i]!= 0:

@@ -2,7 +2,7 @@ def main():
     height = get_height()
 
     for i in range(height):
-        print("#")
+        print("$")
 
 
 def get_height():

@@ -11,7 +11,7 @@ Assumption: String Contains only lower-case alphabetical letters.
 Note:
 
 Return null if string is null.
-If both characters are not present in string or both of them are same , then return the string unchanged.
+If both characters are  not present in string or both of them are same , then return the string unchanged.
 Example:
 
 Input:

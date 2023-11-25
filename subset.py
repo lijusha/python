@@ -11,7 +11,7 @@ The first line will contain the number of test cases, .
 The first line of each test case contains the number of elements in set .
 The second line of each test case contains the space separated elements of set .
 The third line of each test case contains the number of elements in set .
-The fourth line of each test case contains the space separated elements of set .
+The fourth line of each test case   contains the space separated elements of set .
 
 Constraints
 

@@ -20,9 +20,9 @@ print(name*3)
 
 
 print("{} how are you".format(name))
-print("{:>10} how are you".format(name))
-print("{:<10} how are you".format(name))
-print("{:^10} how are you".format(name))
+print("{:>10} how  are  you".format(name))
+print("{:<10} how  are  you".format(name))
+print("{:^10} how  are  you".format(name))
 
 number = 3.145
 

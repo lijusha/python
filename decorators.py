@@ -20,5 +20,5 @@ person1 = person("tim",34)
 print(person1.display())
 print(person.get_population())
 
-# we no need to call static method using class instance
+# we no need to call static method  using class instance
 print(person.isadult(4))

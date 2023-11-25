@@ -19,7 +19,7 @@ Output
 Explanation
 
 Sum of numbers divisible by 4 are 4 + 8 + 12 + 16 + 20 = 60
-Sum of numbers not divisible by 4 are 1 +2 + 3 + 5 + 6 + 7 + 9 + 10 + 11 + 13 + 14 + 15 + 17 + 18 + 19 = 150
+Sum of  numbers not divisible by 4 are 1 +2 + 3 + 5 + 6 + 7 + 9 + 10 + 11 + 13 + 14 + 15 + 17 + 18 + 19 = 150
 Difference 150 - 60 = 90
 Sample Input
 n:3

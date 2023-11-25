@@ -11,7 +11,7 @@ Constraints:
 
 1<N<10000000000
 1<k<600.
-You can assume that N will have no prime factors which are larger than 13.
+You can assume that N will  have no prime factors which are larger than 13.
 
 Example 1
 

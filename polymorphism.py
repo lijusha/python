@@ -2,7 +2,7 @@ class Birds(object):
     def intro1(self):  
         print("There are multiple types of birds in the world.")  
     def flight1(self):  
-        print("Many of these birds can fly but some cannot.")  
+        print("Many of these birds can  fly but some cannot.")  
   
 class sparrow1(Birds):  
     def flight1(self):  

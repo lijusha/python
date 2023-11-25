@@ -17,7 +17,7 @@ Data Type in python :
      --> str ,int ,float ,complex ,list ,tuple ,range ,dic ,set ,bool ,None
 
 list :
-    --> it defined in square bracket
+    --> it defined in  square bracket
     --> it is orded 
     --> it is mutable 
     --> we can add different datatype

@@ -1,6 +1,6 @@
 """
 99946
-if even even (or) odd odd comes next next print '-' in between
+if even even (or) odd odd comes next  next print '-' in between
 9-9-94-6 
 """
 

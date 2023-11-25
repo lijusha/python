@@ -26,7 +26,7 @@ Next N2 lines are the number of slabs of interest rates for a given period by Ba
 The period and rate will be delimited by single white space.
  
 
-Output Format: Your decision either Bank A or Bank B.
+Output Format: Your  decision either Bank A or Bank B.
 
 Example 1
 Input

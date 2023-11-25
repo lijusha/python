@@ -14,7 +14,7 @@ string: a single string with newline characters ('\n') where the breaks should b
 Input Format
 
 The first line contains a string, .
-The second line contains the width, .
+The second line contains  the width, .
 
 Constraints
 

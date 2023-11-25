@@ -8,7 +8,7 @@ Input Format:
 Accept the two integer as a input
 
 Output Format:
-5 digit number format followed by number with 5 width space in new line.
+5 digit number format followed by  number with 5 width space in new line.
 
 Constraints:
 10^-15 <= num1,num2 <= 10^15

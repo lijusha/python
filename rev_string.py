@@ -14,6 +14,6 @@ def rev_string(string):
     return revers
 
 
-print(rev_string("ansal"))
+print(rev_string("liju"))
 
 

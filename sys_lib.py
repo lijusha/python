@@ -1,7 +1,7 @@
 import sys
 
 if len(sys.argv) != 2:
-    print("missing commant line argument ")
+    print("missing commant  line argument ")
     sys.exit(1)
 
 

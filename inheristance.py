@@ -25,5 +25,5 @@ class employee(pearson):
         print(f"salary : {self.salary}")
         print(f"post :{self.post}")
        
-a = employee("ansal",14423,200000, "Intern")
+a = employee("liju",14423,200000, "Intern")
 a.details()

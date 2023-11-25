@@ -1,5 +1,5 @@
 class dog:
-   species = "Canis familiaris"
+   species = "Canis  familiaris"
    def __init__(self,name,age) -> None:
       self.name = name
       self.age = age

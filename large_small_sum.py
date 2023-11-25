@@ -3,7 +3,7 @@
 def LargeSmallSum(arr)
 
 The function accepts an integers arr of size 'length' as its arguments you are required to return the sum of second largest  element from the even positions 
-and second smallest from the odd position of given 'arr'
+and second  smallest from the odd position of given 'arr'
 
 Assumption:
 
@@ -12,7 +12,7 @@ Treat the 0th position as even
 NOTE
 
 Return 0 if array is empty
-Return 0, if array length is 3 or less than 3
+Return 0, if array length is 3  or less than 3
 Example
 
 Input

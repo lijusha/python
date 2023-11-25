@@ -17,7 +17,7 @@ Constraints :
 2<=W
 W%2=0
 V<W
-Print “INVALID INPUT” , if inputs did not meet the constraints.
+Print “INVALID INPUT” , if inputs did  not meet the constraints.
 The input format for testing 
 The candidate has to write the code to accept two positive numbers separated by a new line.
 First Input line - Accept value of V.

@@ -1,6 +1,6 @@
 from random import choice,randint
 
-coin = choice(["head","tail"])  # we can insert list
+coin = choice(["head", "tail"])  # we can insert list
 print(coin)
 
 

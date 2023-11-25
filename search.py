@@ -10,7 +10,7 @@ def find_max_ones_row(matrix):
 
     return max_ones_row
 
-# Input
+#  Input
 test_cases = int(input())
 matrix = []
 

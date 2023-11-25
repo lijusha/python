@@ -10,7 +10,7 @@ The Captain was given a separate room, and the rest were given one room per grou
 Mr. Anant has an unordered list of randomly arranged room entries. The list consists of the room numbers for all of the tourists. The room numbers will appear  times per group except for the Captain's room.
 Mr. Anant needs you to help him find the Captain's room number.
 The total number of tourists or the total number of groups of families is not known to you.
-You only know the value of  and the room number list.
+You only know the  value of  and the room number list.
 
 Input Format
 

@@ -10,7 +10,7 @@ arr: 12 3 14 56 77 13
 num: 13
 diff: 2
 
-Output: 3
+Output:5
 Explanation:
 Elements of ‘arr’ having absolute difference of less than or equal to ‘diff’ i.e. 2 with ‘num’ i.e. 13 are 12, 13 and 14."""
 

@@ -1,0 +1,6 @@
+name=input()
+score=int(input())
+dept=input()
+print("my name is",name)
+print("my score is",score)
+print("my dept is",dept)

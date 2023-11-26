@@ -1,0 +1,6 @@
+name=(input())
+age=(input())
+add=(input())
+print("the name is",name)
+print("the age is",age)
+print("the add is",add)

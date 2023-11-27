@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 import keyword 
+=======
+import keyword 
+>>>>>>> c73ed5227ccd232e3c6a0fe98ae66fd823042767
 print(keyword .kwlist)
